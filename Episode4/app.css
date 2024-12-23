@@ -1,0 +1,24 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo img{
+    width: 120px;
+}
+
+.nav-items ul{
+    display: flex;
+    list-style-type: none;
+    margin: 15px;
+    font-size: 20px;
+}
+
+.nav-items ul li{
+    margin: 0px 15px;
+}
+
+.restro-card{
+    display: flex;
+    flex-wrap: wrap;
+}
